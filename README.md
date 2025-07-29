@@ -1,5 +1,5 @@
-```markdown
-# Alexis Solorzano 
+
+## Alexis Solorzano 
 
 Welcome to my GitHub portfolio! I’m a recent BBA graduate in Management Information Systems from the University of Houston, with hands‑on experience in data engineering, BI/dashboard development, and process optimization. Here you’ll find projects that showcase my skills in Python, SQL, Power BI, and more.
 
