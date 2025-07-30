@@ -5,12 +5,12 @@ Welcome to my GitHub portfolio! I’m a recent BBA graduate in Management Inform
 
 ---
 
-## 📖 Professional Summary
+##  Professional Summary
 I’m a data‑driven MIS graduate passionate about building scalable business applications and data solutions. With proven experience in ETL pipeline development, process optimization, and Agile methodologies, I thrive on transforming raw data into actionable insights.
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 - **Languages & Querying:** SQL / MySQL, Python, JavaScript, R  
 - **Visualization & BI:** Power BI, Tableau, Excel, Matplotlib  
@@ -20,7 +20,7 @@ I’m a data‑driven MIS graduate passionate about building scalable business a
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 **University of Houston**  
 _BBA in Management Information Systems_ • June 2025  
@@ -31,7 +31,7 @@ _BBA in Management Information Systems_ • June 2025
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Operations Analyst (Curbside Team Lead) • H‑E‑B, Houston, TX  
 _July 2023 – Present_  
@@ -51,7 +51,7 @@ _Apr 2023 – Aug 2024_
 
 ---
 
-## 🌟 Leadership
+##  Leadership
 
 **Java Officer** • MISSO (Management Information Systems Student Org)  
 _Aug 2024 – May 2025_  
@@ -59,7 +59,7 @@ _Aug 2024 – May 2025_
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project                                   | Description                                                                                             | Repo Link                 |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------- |
@@ -71,10 +71,10 @@ _Aug 2024 – May 2025_
 
 ---
 
-## 📬 Contact & Connect
+##  Contact & Connect
 
-- 📧 Email: alexissolorzano65@gmail.com  
-- 🔗 LinkedIn: [alexissolorzano12](https://www.linkedin.com/in/alexissolorzano12/)  
+-  Email: alexissolorzano65@gmail.com  
+-  LinkedIn: [alexissolorzano12](https://www.linkedin.com/in/alexissolorzano12/)  
 
 ---
 
