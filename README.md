@@ -3,12 +3,6 @@
 
 Welcome to my GitHub portfolio! I’m a recent BBA graduate in Management Information Systems from the University of Houston, with hands‑on experience in data engineering, BI/dashboard development, and process optimization. Here you’ll find projects that showcase my skills in Python, SQL, Power BI, and more.
 
----
-
-##  Professional Summary
-I’m a data‑driven MIS graduate passionate about building scalable business applications and data solutions. With proven experience in ETL pipeline development, process optimization, and Agile methodologies, I thrive on transforming raw data into actionable insights.
-
----
 
 ##  Skills & Technologies
 
@@ -26,8 +20,9 @@ I’m a data‑driven MIS graduate passionate about building scalable business a
 _BBA in Management Information Systems_ • June 2025  
 
 **Certifications**  
-- Google Cloud Professional Data Engineer (2025)  
-- dbt Foundation (2025)  
+- Google Cloud Professional Data Engineer - In progress (2025)  
+- dbt Foundation - Completed (2025)
+- Microsoft PL-300 - Completed (2025)
 
 ---
 
