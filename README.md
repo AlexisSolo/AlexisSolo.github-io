@@ -63,7 +63,7 @@ _Aug 2024 – May 2025_
 
 | Project                                   | Description                                                                                             | Repo Link                 |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------- |
-| **Employee Performance & Engagement Dashboard** | Interactive Power BI dashboard analyzing simulated HR data with SQL & DAX to uncover engagement & risk trends. | `[View Repository](#)`    |
+| **Employee Performance & Engagement Dashboard** | Interactive Power BI dashboard analyzing simulated HR data with SQL & DAX to uncover engagement & risk trends. | `(https://github.com/AlexisSolo/Employee-Performance-Engagement-Dashboard.git)`    |
 | **Client Churn Prediction Model**         | End‑to‑end Python solution for predicting client churn: feature selection, model training, tuning, and evaluation. | `[View Repository](#)`    |
 | **Retail Ops Efficiency Simulator**       | Python & SQL‑based simulator modeling order fulfillment; uses Matplotlib to identify a 15% cut in prep time. | `[View Repository](#)`    |
 
