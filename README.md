@@ -1,7 +1,6 @@
 ## Alexis Solorzano
 
-<#div align="center">
-  <#img src="assets/profile.jpg" alt="Alexis Solorzano" width="160" height="160" style="border-radius:50%; object-fit:cover;" />
+
   <p style="margin-top:8px;">Hi, I'm Alexis. I build practical, self-driven data and operations tools that turn business complexity into clarity.</p>
 </div>
 
