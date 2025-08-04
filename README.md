@@ -19,7 +19,7 @@
 **Tech stack:** Python, Dash, Plotly, real-time data handling  
 **What it does:** Tracks compliance, forecasts order volumes, and surfaces fulfillment bottlenecks.  
 **Impact:** Helped identify operational gaps and recommend actions to raise service-level compliance above a 60% baseline.  
-**Link:** [github.com/AlexisSolo/operations-efficiency-forecasting](#)
+**Link:** [https://github.com/AlexisSolo/Operations-Efficiency-Forecasting-Dashboard](#)
 
 ### 2. Sales Revenue Analytics Dashboard (Solo Hub)  
 **Tech stack:** Python, Airflow, BigQuery, RFM segmentation, profitability modeling  
