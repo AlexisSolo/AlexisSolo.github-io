@@ -37,7 +37,7 @@
 **Tech stack:** Dynamic KPI logic, AI narrative generation, business insight summaries  
 **What it does:** Builds period-over-period KPI comparisons and translates them into plain-language summaries to speed decision-making.  
 **Impact:** Bridges data with actionable insight through automated narratives.  
-**Link:** [github.com/AlexisSolo/real-time-analytics-dashboard](#)
+**Link:** [https://github.com/AlexisSolo/Real-Time-Analytics-Architect](#)
 
 ---
 
